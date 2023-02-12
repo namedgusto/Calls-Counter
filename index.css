@@ -6,6 +6,7 @@ body {
     font-weight: bold;
     text-align: center;
     height: 100vh;
+    margin:10vh auto;
 }
 
 h1 {
@@ -28,8 +29,8 @@ p
 
 .counterbody 
     {
-        max-width: 60%;
-        overflow-wrap: 20px;
+        min-width: 400px;
+        max-width: 600px;
         background: rgb(221,96,96,0.5);
         margin: auto;
         padding: 6vh;
